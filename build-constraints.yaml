@@ -425,6 +425,8 @@ packages:
 
     "Karl Ostmo <kostmo@gmail.com> @kostmo":
         - perfect-hash-generator
+        - colonnade
+        - blaze-colonnade
 
     "Alan Zimmerman @alanz":
         - ghc-exactprint
